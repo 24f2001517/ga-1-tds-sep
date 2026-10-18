@@ -1,0 +1,3 @@
+port: 8763
+debug: true
+log_level: warning
